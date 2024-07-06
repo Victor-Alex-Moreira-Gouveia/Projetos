@@ -17,10 +17,31 @@ h1{
 
 h2{
     padding: 5px;
-    text-indent: 20px;
+    text-indent: 1px;
 }
 
 p{
     padding: 5px;
     text-indent: 20px;
+}
+
+table{
+    margin: auto;
+    border: 1px solid black;
+    width: 60%;
+    text-align: center;
+}
+
+th{
+    text-align: center;
+    border: 1px solid black;
+}
+
+td{
+    text-align: center;
+    border: 1px solid black;
+}
+
+#naolink{
+    color: steelblue;
 }
