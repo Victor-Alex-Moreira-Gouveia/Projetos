@@ -20,9 +20,18 @@ h2{
     text-indent: 1px;
 }
 
+h4{
+    padding: 5px;
+    text-indent: 1px;
+}
+
 p{
     padding: 5px;
     text-indent: 20px;
+}
+
+li{
+    padding: 5px;
 }
 
 table{
