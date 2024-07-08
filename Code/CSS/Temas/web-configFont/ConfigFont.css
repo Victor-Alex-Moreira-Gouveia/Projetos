@@ -1,0 +1,56 @@
+.DS{
+    font-size: 18px;
+}
+
+@font-face {
+font-family:BlackOpsOne;
+src: url(/Font-family/BlackOpsOne.ttf);
+}
+@font-face {
+font-family:Arial-black;
+src: url(/Font-family/Arial\ Black.ttf);
+}
+@font-face {
+font-family:FireCode;
+src: url(/Font-family/Firecode-fonts/FireCode.ttf);
+}
+@font-face {
+font-family:FireCode-Bold;
+src: url(/Font-family/Firecode-fonts/FiraCode-Bold.ttf);
+}
+@font-face {
+font-family:FireCode-Light;
+src: url(/Font-family/Firecode-fonts/FiraCode-Light.ttf);
+}
+@font-face {
+font-family:FireCode-Medium;
+src: url(/Font-family/Firecode-fonts/FiraCode-Medium.ttf);
+}
+@font-face {
+font-family:FireCode-Regular;
+src: url(/Font-family/Firecode-fonts/FiraCode-Regular.ttf);
+}
+@font-face {
+font-family:FireCode-SemiBold;
+src: url(/Font-family/Firecode-fonts/FiraCode-SemiBold.ttf);
+}
+@font-face {
+font-family:Klavika bold;
+src: url(/Font-family/Klavika/klavika-light.otf);
+}
+@font-face {
+font-family: DS-DIGI;
+src: url(/Font-family/DS-Digital/DS-DIGI.TTF);
+}
+@font-face {
+font-family: DS-DIGIB;
+src: url(/Font-family/DS-Digital/DS-DIGIB.TTF);
+}
+@font-face {
+font-family: DS-DIGII;
+src: url(/Font-family/DS-Digital/DS-DIGII.TTF);
+}
+@font-face {
+font-family: DS-DIGIT;
+src: url(/Font-family/DS-Digital/DS-DIGIT.TTF);
+}
