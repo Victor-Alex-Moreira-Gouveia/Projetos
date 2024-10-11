@@ -1,0 +1,17 @@
+1-ExpressJS:
+    Permite que o JavaScript possa criar aplicações web no backend com recebimento ou envio de dados.
+
+Sequelize e SQLite:
+O Sequelize é um ORM (Object-Relational Mapper) popular para Node.js. Ele permite mapear tabelas do banco de dados para objetos ou módulos da sua aplicação, facilitando a manipulação do banco de dados sem escrever SQL diretamente.
+Você pode usar o Sequelize com o SQLite. Primeiro, crie um aplicativo Node.js na sua máquina com npm init. Em seguida, instale as dependências do Sequelize e do SQLite no seu package.json:
+npm install sequelize sqlite3
+
+Depois disso, você pode seguir tutoriais específicos para criar um CRUD com o Sequelize e o SQLite1.
+
+node-sqlite3:
+O node-sqlite3 é um driver para Node.js que fornece ligações assíncronas e não bloqueantes para o SQLite3.
+Você pode usá-lo para conectar-se a um banco de dados SQLite e executar operações CRUD. Há um tutorial disponível para ajudá-lo a começar com o node-sqlite32.
+
+JavaScript Puro:
+Se você preferir trabalhar diretamente com JavaScript puro, pode usar a biblioteca sqlite3 para interagir com o SQLite.
+Este tutorial mostra como realizar operações CRUD no SQLite usando JavaScript
